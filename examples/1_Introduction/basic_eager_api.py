@@ -16,6 +16,7 @@ can be converted to a graph that can be further optimized and/or extracted
 for deployment in production without changing code. " - Rajat Monga
 
 '''
+print('hai ')
 from __future__ import absolute_import, division, print_function
 
 import numpy as np
